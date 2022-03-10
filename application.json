@@ -1,0 +1,25 @@
+{
+  "name": "Untitled organization 7",
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#EAEDFB",
+  "icon": "shake-hands",
+  "slug": "untitled-organization-7",
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1646937079,
+    "nanos": 299000000
+  },
+  "deleted": false,
+  "policies": [],
+  "userPermissions": [
+    "manage:applications",
+    "canComment:applications",
+    "export:applications",
+    "read:applications",
+    "publish:applications",
+    "makePublic:applications"
+  ]
+}
